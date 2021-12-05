@@ -1,5 +1,14 @@
 华山剑法,天下第一!
+<<<<<<< HEAD
+我是令狐冲,我比岳不群还厉害  edit by linghuchong dugujiujian
+=======
 &&&&&&&&&&&&&&&&&&&&&&&
 %%%%%%%%%%%%%%%%%%%%%%%
-我是令狐冲,我比岳不群还厉害 edit by yuebuqun  hhhhhhhhhhhhhhhhhhhhhhhhhh
+我是令狐冲,我比岳不群还厉害  edit by linghuchong 
+>>>>>>> 90d16aa2974011bd78dd3ef19d4d96548eec1bf7
+我是令狐冲,我比岳不群还厉害 edit by yuebuqun
 ***************************
+oragin
+a
+s
+d
