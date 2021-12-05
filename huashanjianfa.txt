@@ -11,4 +11,7 @@
 oragin
 a
 s
+<<<<<<< HEAD
 d
+=======
+>>>>>>> 7ecd217237b5cd7b4daf2182dd5a193b5989eb22
