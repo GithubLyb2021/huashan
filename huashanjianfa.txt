@@ -8,4 +8,10 @@
 >>>>>>> 90d16aa2974011bd78dd3ef19d4d96548eec1bf7
 我是令狐冲,我比岳不群还厉害 edit by yuebuqun
 ***************************
-origin
+oragin
+a
+s
+<<<<<<< HEAD
+d
+=======
+iqaaa`>>>>>>> 7ecd217237b5cd7b4daf2182dd5a193b5989eb22
